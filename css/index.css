@@ -1,0 +1,7 @@
+.image{
+    background: url(../assests/bg.jpg) no-repeat;
+    background-position: center;
+    background-size: cover;
+    height: 50vh;
+    /* width: 98%; */
+}
